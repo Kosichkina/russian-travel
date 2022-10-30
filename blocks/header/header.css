@@ -1,0 +1,8 @@
+
+.header {
+    display: flex;
+    display: row;
+    justify-content: space-between;
+    background: #2A2C2F;
+    
+}

@@ -1,0 +1,25 @@
+.footer__column-link {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+
+
+color: #FFFFFF;
+text-decoration: none;
+margin: 0 18px 0 0;
+
+}
+
+.footer__column-link:hover {
+opacity: 0.8;
+  }
+
+  @media screen and (max-width: 500px) {
+    .footer__column-link {
+    flex-direction: column;
+    max-width: 158px;
+    }
+  }

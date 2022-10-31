@@ -3,3 +3,17 @@ padding-top: 92px;
 padding-bottom: 24px;
 
 }
+
+@media screen and (max-width: 500px) {
+    .footer__padding-top-bottom {
+        padding-top: 64px;
+   
+        
+  }
+}
+@media screen and (max-width: 800px) {
+    .footer__padding-top-bottom {
+        padding-top: 88px;
+    
+    }
+      }

@@ -1,6 +1,6 @@
 .header__lang-link {
 display: flex;
-margin: auto 18px auto 0 ;
+margin: auto 18px auto 0;
 height: 28px;
 color: #FFFFFF;
 font-style: normal;
@@ -13,5 +13,5 @@ line-height: 28px;
 
 .header__lang-link:nth-child(2) {
     text-decoration-line: none;
-    margin: auto 0 auto 0 ;
+    margin: auto 0 auto 0;
 }

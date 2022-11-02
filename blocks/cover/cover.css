@@ -1,13 +1,4 @@
 .cover {
-  margin: 0 48px 0;
-  max-width: 1184px;  
+  font-family: 'Inter',  Arial, Helvetica, sans-serif;
     
 }
-
-
-@media screen and (max-width: 1100px) {
-.cover{
-max-width: 1024px;
-margin: 0;
- }
-  }

@@ -1,0 +1,39 @@
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../vendor/fonts/Inter-Regular-400.woff") format("woff");
+  src: url('../vendor/fonts/Inter-Regular-400.woff2') format("woff2");
+  
+  
+  font-weight: normal;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility; 
+  
+  }
+  
+
+}
+       @font-face {
+        font-family: 'Inter';
+        font-style:  normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url('../vendor/fonts/Inter-Bold-700.woff') format("woff"),
+             url("../vendor/fonts/Inter-Black-700.woff2") format("woff");
+       }
+
+       @font-face {
+        font-family: 'Inter';
+        font-style:  normal;
+        font-weight: 900;
+        font-display: swap;
+        src: url("../vendor/fonts/Inter-Black-900.woff2") format("woff2"),
+             url("../vendor/fonts/Inter-Black-900.woff") format("woff");
+      }

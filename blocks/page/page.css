@@ -2,12 +2,15 @@
   
     font-family: 'Inter', Arial, sans-serif;
     background: #2A2C2F;
+    color: #FFFFFF;
+    font-weight: 400;
     display: flex;
     flex-direction: column;
     max-width: 1280px;
     min-width: 320px;
     min-height: 100vh;
-    margin: 0;
+    margin: 0 auto;
+    padding: 28px 0 24px;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -17,13 +20,13 @@
 
     
   }
-  /*
+  
  
   * {
     outline: 1px solid rgba(255, 0, 0, 0.815);
   
   }
-  */
+  
   
 
   @media screen and (max-width: 1100px) {

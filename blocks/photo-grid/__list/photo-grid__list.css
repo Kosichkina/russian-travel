@@ -2,13 +2,13 @@
 .photo-grid-list {
   list-style-type: none;
   display: grid;
-  margin: 0 auto;
-  padding: 0;
+  margin: 0;
+  padding: 0 auto;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
   max-width: 1184px;
   gap: 16px;
-  box-sizing: border-box;
+  
   align-self: center;
 }
 

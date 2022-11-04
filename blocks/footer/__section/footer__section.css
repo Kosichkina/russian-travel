@@ -1,0 +1,19 @@
+.footer__section {
+
+    margin: 0 48px 0;
+
+}
+
+@media screen and (max-width: 984px) {
+    .footer__section {
+
+        margin-left: 24px;
+    }
+}
+
+@media screen and (max-width: 984px) {
+    .footer__section {
+
+        margin-left: 16px;
+    }
+}

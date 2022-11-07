@@ -4,7 +4,7 @@
 * ЯЗЫКИ: HTML, CSS
 * БЭМ Nested
 * Технологии Grid и Flex-box верстки
-*Ссылка на страницу*
+*Ссылка на страницу
 
 https://kosichkina.github.io/russian-travel/
 

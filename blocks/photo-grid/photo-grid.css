@@ -1,4 +1,20 @@
 .photo-grid {
-    max-width: 100%;
+    max-width: calc(100% - 96px);
     display: grid;
+
+}
+
+
+@media screen and (max-width: 980px) {
+    .photo-grid {
+        max-width: calc(100% - 48px);
+
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .photo-grid {
+        max-width: calc(100% - 32px);
+
+    }
 }

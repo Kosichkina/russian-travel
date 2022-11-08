@@ -1,17 +1,14 @@
 .footer {
-font-family: 'Inter',  Arial, Helvetica, sans-serif;
-display: flex;
-justify-content: space-between;
-color: #FFFFFF;
-
-
-
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  color: #FFFFFF;
 }
-@media screen and (max-width: 700px) {
-    .footer {
 
+@media screen and (max-width: 700px) {
+  .footer {
     max-width: 330px;
     flex-direction: column;
     padding: 0;
-    }
   }
+}

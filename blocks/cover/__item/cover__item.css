@@ -30,13 +30,11 @@ z-index: 1;
     }   
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 650px) {
     .cover__item {
         min-height: 200px;
     }   
 }
-
-
 
 
 
@@ -64,7 +62,7 @@ z-index: 1;
     }
     }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 650px){
 .cover__item {
 min-height: 200px;
 
